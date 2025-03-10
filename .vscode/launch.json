@@ -4,7 +4,7 @@
         "name": "(gdb) Launch",
         "type": "cppdbg",
         "request": "launch",
-        "program": "${workspaceFolder}/builddir/src/heapsort",
+        "program": "${workspaceFolder}/src/heap",
         "args": [],
         "stopAtEntry": false,
         "cwd": "${fileDirname}",
